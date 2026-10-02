@@ -1,4 +1,35 @@
 body{
-    background-color:darkgray;
-    background-image: url('../img/Sfondo.mp4');
+    background-color:rgb(0, 53, 197);
+    background-image: url(../img/Sfondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:0;
+    margin:0;
+ 
 }
+
+.titolo{
+    padding-left:32%;
+    padding-top:15%;
+}
+
+.logo{
+   padding-right:-5%;
+   margin-top:-8px;
+   width:200px;
+   background-color:rgba(0, 0, 19, 0.459);
+   height:100px;
+   m
+   
+
+}
+
+.barra{
+    align-items:flex-start;
+    padding:0;
+    margin:0;
+    background-color:rgba(58, 71, 88, 0.733);
+    height: 90px;
+}
+
+
