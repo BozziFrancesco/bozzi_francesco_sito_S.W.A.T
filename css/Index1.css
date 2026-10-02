@@ -19,7 +19,8 @@ body{
    width:200px;
    background-color:rgba(0, 0, 19, 0.459);
    height:100px;
-   m
+   border-right:2px solid #000;
+  
    
 
 }
@@ -30,6 +31,15 @@ body{
     margin:0;
     background-color:rgba(58, 71, 88, 0.733);
     height: 90px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.home{
+
+    margin-top:-70px;
+    margin-left:300px;
+    border-right:2px solid #000;
 }
 
 
